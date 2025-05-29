@@ -21,7 +21,7 @@ Projede 3 ana görev bulunmaktadır:
   <li>TS</li>
   <li>React</li>
 </ul>
-
+```
 
 #### Hedeflenenler:
 
